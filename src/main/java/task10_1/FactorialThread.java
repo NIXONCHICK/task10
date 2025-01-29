@@ -1,4 +1,4 @@
-package task10;
+package task10_1;
 
 import java.math.BigInteger;
 
